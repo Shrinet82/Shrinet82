@@ -36,15 +36,13 @@ I help growing engineering teams ship faster with **self-service infrastructure*
 ## ⭐ Featured Projects
 ✅ **OPSIE — Internal Developer Platform**
 - Backstage + Terraform + ArgoCD golden paths for self-service infra  
-📌 Repo: *(link your OPSIE repo here)*
+
 
 ✅ **Aegis — Cloud Governance & Cost Control**
 - Policy-as-code guardrails to stop runaway resources + enforce tagging  
-📌 Repo: *(link your Aegis repo here)*
 
 ✅ **Zero-Trust DevSecOps Pipeline (Azure + AKS)**
 - Multi-stage pipeline: scan → SBOM → DAST → gated deploy  
-📌 Repo: *(link your DevSecOps repo here)*
 
 ---
 
