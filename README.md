@@ -50,5 +50,5 @@ I help growing engineering teams ship faster with **self-service infrastructure*
 
 ## 📫 Contact
 - Email: **shashwat.pratap94550@gmail.com**
-- LinkedIn: *(paste link here)*
+- LinkedIn: www.linkedin.com/in/shashwat-pratap-singh-a2b984230
 - GitHub: https://github.com/Shrinet82
